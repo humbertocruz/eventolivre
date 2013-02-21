@@ -1,4 +1,4 @@
-eventolivre
-===========
+Eevento Livre
+=============
 
-Sistema de Eventos
+Sistema de Eventos em Software Livre
